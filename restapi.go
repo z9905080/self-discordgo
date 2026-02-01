@@ -28,7 +28,7 @@ import (
 	"github.com/goccy/go-json"
 
 	http "github.com/bogdanfinn/fhttp"
-	"github.com/lb-selfbot/discordgo/protos"
+	"github.com/z9905080/self-discordgo/protos"
 	"google.golang.org/protobuf/proto"
 )
 

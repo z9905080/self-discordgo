@@ -6,7 +6,7 @@ import (
 
 	"github.com/goccy/go-json"
 
-	"github.com/lb-selfbot/discordgo/protos"
+	"github.com/z9905080/self-discordgo/protos"
 	"google.golang.org/protobuf/proto"
 )
 
