@@ -3,6 +3,7 @@ module github.com/z9905080/self-discordgo
 go 1.22
 
 require (
+	github.com/goccy/go-json v0.10.5
 	github.com/gorilla/websocket v1.5.3
 	golang.org/x/crypto v0.26.0
 	google.golang.org/protobuf v1.34.2
@@ -10,7 +11,6 @@ require (
 
 require (
 	github.com/cloudflare/circl v1.3.9 // indirect
-	github.com/goccy/go-json v0.10.5 // indirect
 	github.com/quic-go/quic-go v0.46.0 // indirect
 )
 
